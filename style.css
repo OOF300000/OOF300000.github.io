@@ -7,11 +7,13 @@ html, body {
 .images {
   padding: 5%;
   margin: 50%;
-  
+
 }
 
 .images .image-container {
   display: inline-block;
+  border: 500px;
+  border-color: blue;
 }
 
 .card img {
